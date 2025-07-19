@@ -1,0 +1,30 @@
+{
+  "name": "fidelis-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page oficial do servidor Discord Fidelis.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [
+    "discord",
+    "landing page",
+    "fidelis",
+    "minimalista",
+    "dark mode"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "font-awesome": "^6.0.0",
+    "vite": "^2.0.0"
+  },
+  "devDependencies": {},
+  "homepage": "https://discord.gg/seu-link",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/fidelis-landing-page.git"
+  }
+}
